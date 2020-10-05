@@ -1,0 +1,5 @@
+C:\Users\edwin\Desktop\AnimalSpawn\AnimalSpawn\AnimalSpawn.Api\obj\Debug\netcoreapp3.1\AnimalSpawn.Api.csprojAssemblyReference.cache
+C:\Users\edwin\Desktop\AnimalSpawn\AnimalSpawn\AnimalSpawn.Api\obj\Debug\netcoreapp3.1\AnimalSpawn.Api.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\AnimalSpawn\AnimalSpawn\AnimalSpawn.Api\obj\Debug\netcoreapp3.1\AnimalSpawn.Api.AssemblyInfo.cs
+C:\Users\edwin\Desktop\AnimalSpawn\AnimalSpawn\AnimalSpawn.Api\obj\Debug\netcoreapp3.1\AnimalSpawn.Api.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\AnimalSpawn\AnimalSpawn\AnimalSpawn.Api\obj\Debug\netcoreapp3.1\AnimalSpawn.Api.MvcApplicationPartsAssemblyInfo.cache
